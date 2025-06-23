@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\venuebookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:venuebookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\venuebookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:venuebookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A17F7DCE-1BB6-4C05-B9C0-94C49F23B8C0}|VenueBookingSystem.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211part2\\venuebookingsystem\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -126,17 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-06T16:25:48.394Z",
               "EditorCaption": ""
@@ -151,7 +151,34 @@
               "RelativeToolTip": "VenueBookingSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-06T12:15:22.833Z"
+              "WhenOpened": "2025-04-06T12:15:22.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:09:11.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:05:41.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -167,8 +194,12 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
@@ -181,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
@@ -193,12 +224,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Views\\Event\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\Create.cshtml",
@@ -211,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Models\\Event.cs",
@@ -224,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventController.cs",
@@ -237,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Views\\Event\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\Edit.cshtml",
@@ -250,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
@@ -263,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Venue.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "Models\\Venue.cs",
@@ -276,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Views\\Event\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
@@ -289,20 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAANDMzMzPbvxEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:05:41.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -311,19 +325,6 @@
               "ViewState": "AgIAABgAAAAAMzMzMzMFwBkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T12:09:35.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:09:11.189Z",
               "EditorCaption": ""
             },
             {

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VenueBookingSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23c41d9ef550afeac9dcfac309d04864f1e93d0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c719b3f1b0a4fe13ce34d0259d8523487143e903")]
 [assembly: System.Reflection.AssemblyProductAttribute("VenueBookingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VenueBookingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

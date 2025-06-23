@@ -7801,11 +7801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\VenueBookingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POE\\VenueBookingSystem\\VenueBookingSystem.csproj",
       "projectName": "VenueBookingSystem",
-      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\VenueBookingSystem.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POE\\VenueBookingSystem\\VenueBookingSystem.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211Part2\\VenueBookingSystem\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6211POE\\VenueBookingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
